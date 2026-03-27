@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1716811378 source:c:\users\lazaninka\desktop\k\test_allegro\dodatek\dodatek.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<cmath>
+	<cstdlib>
+	<cstdio>
+
