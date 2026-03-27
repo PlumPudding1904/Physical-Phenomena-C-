@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1716804017 source:c:\users\lazaninka\desktop\k\test_allegro\bilard\bilard.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<cmath>
+	<cstdlib>
+	<cstdio>
+
