@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1710756721 source:d:\tomasz nowak\symulacje\sym11_03\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1710766203 source:d:\tomasz nowak\symulacje\sym18_03\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+
+1713181951 source:d:\tomasz nowak\symulacje\sym15_04\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cmath>
+	<cstdlib>
+	<cstdio>
+
+1713780639 source:d:\tomasz nowak\symulacje\sym22_04\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+
+1713782829 source:d:\tomasz nowak\symulacje\sym22_04_1\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+
+1713786913 source:d:\tomasz nowak\symulacje\sym22_04_2\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+
+1714388253 source:d:\tomasz nowak\symulacje\sym_29_04\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1714391017 source:d:\tomasz nowak\symulacje\sym_29_04_1\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1728986416 source:c:\users\admin\desktop\ii stopien\symulacje\15_10_mod_ising\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
