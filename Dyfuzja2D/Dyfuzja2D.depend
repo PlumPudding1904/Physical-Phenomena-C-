@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1718023568 source:c:\users\lazaninka\desktop\k\test_allegro\dyfuzja2d\dyfuzja2d.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+
