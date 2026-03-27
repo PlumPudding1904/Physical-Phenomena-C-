@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1719234305 source:c:\users\lazaninka\desktop\k\test_allegro\maxwell\maxwell.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
